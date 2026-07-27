@@ -26,7 +26,7 @@ Add `Keychain` to your `Package.swift` dependencies:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/your-repo/Keychain.git", from: "1.0.0")
+    .package(url: "https://github.com/BenSeferidis/Keychain.git", from: "1.0.0")
 ]
 ```
 
