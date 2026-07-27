@@ -1,0 +1,13 @@
+# <type>(<scope>): <short summary>
+# │       │       │
+# │       │       └─⌲ Summary in present tense. Capitalized. No period at the end.
+# │       └─⌲ Scope: keychain, error, docs, test, accessibility, security
+# └─⌲ Type: feat, fix, docs, style, refactor, perf, test, chore
+#
+# ----------------------------------------------------------------------
+# Detailed description / Motivation:
+#
+#
+# ----------------------------------------------------------------------
+# Issue / PR references (optional):
+# Closes #
